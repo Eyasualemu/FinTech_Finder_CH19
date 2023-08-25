@@ -1,0 +1,25 @@
+commit a06825a1fdf796f10adafa40603657ec95e5701f
+Author: Eyasualemu <44585226+Eyasualemu@users.noreply.github.com>
+Date:   Thu Aug 24 22:43:47 2023 -0400
+
+    Update README.md
+    
+    Update readme file
+
+commit d7577fdea3e3599d0514320874deb6f81d615c8d
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Thu Aug 24 22:42:59 2023 -0400
+
+    update Crypto_wallet, Menomic key and Fintec_finder files to run the code on streamlit
+
+commit f207f5508ff089d3f30709fecee63903a8476dc9
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sat Aug 12 00:18:43 2023 -0400
+
+    Intial given solution
+
+commit 05e5f3b0139507eb3e3a4e894fdb23883f86508c
+Author: Eyasualemu <44585226+Eyasualemu@users.noreply.github.com>
+Date:   Sat Aug 12 00:15:16 2023 -0400
+
+    Initial commit
